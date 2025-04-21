@@ -3,4 +3,4 @@ openpyxl
 matplotlib
 japanize-matplotlib
 streamlit
-nbdev
+# nbdev
