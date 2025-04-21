@@ -47,7 +47,7 @@ class Client:
         
         # 軸の範囲を設定
         ax.set_xlim(0, 2)
-        ax.set_ylim(0, 30)
+        ax.set_ylim(-30, 30)
         
         # タイトルと軸ラベルを設定
         ax.set_title(f'"{self.term}"の比較')
