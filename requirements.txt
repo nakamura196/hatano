@@ -1,0 +1,6 @@
+pandas
+openpyxl
+matplotlib
+japanize-matplotlib
+streamlit
+nbdev
